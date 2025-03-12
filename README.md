@@ -1,15 +1,21 @@
-# ZAVION MASTERMIND FINAL ROUND
+# Xenoverse Tales
 
-This is submission for final round of ZAVION TECHFEST: MASTERMIND 2021. I have attached the notebook as pdf and also as a separate JuPyter notebook. I have created a text-based fantasy RPG simulation game, XENOVERSE. In this game, player is provided with two game modes.  
+**Xenoverse Tales** is a text-based fantasy RPG simulation game developed as a submission for the final round of **ZAVION TECHFEST: MASTERMIND 2021**. The game offers two immersive game modes:  
 
-1.	Story Mode: A single player gaming mode where you play as a fantasy character and unravel the mysteries of the nearby land. The protagonist starts off with 4 vials of elemental power reserves. He/she can use each vial for once. Depending on the choices made, the ending will differ.   
-2.	Versus Battle Mode: A two player gaming where the players battle off each other using the four basic elements. Each player starts with 100HP. Each attack reduces the HP by 5,10, and 15 depending on the element chosen by the opponent. First player to reach 0HP loses the game.  
-  
-NOTE: The input is CASE SENSITIVE. So, the inputs should be in UPPERCASE ALPHABETS.  
+### 🏹 Story Mode  
+A single-player experience where you play as a fantasy character, unraveling the mysteries of the nearby land. The protagonist starts with **four vials of elemental power**, each usable **only once**. The choices you make will determine your fate, leading to multiple possible endings.  
 
-[View](https://github.com/rohanstomar11/ZavionTasks/blob/master/ROHANSINGHTOMAR_XENOVERSE.pdf)
-  
-CONTACT:  
-Rohan Singh Tomar  
-rohanstomar11@gmail.com  
-7559454220
+### ⚔️ Versus Battle Mode  
+A competitive two-player mode where players engage in elemental battles. Each player starts with **100 HP** and takes turns attacking with elemental abilities. Attacks reduce HP by **5, 10, or 15**, depending on the element chosen by the opponent. The first player to reach **0 HP** loses the game.  
+
+### ⚠️ Important  
+- **Inputs are CASE SENSITIVE** and must be entered in **UPPERCASE LETTERS**.  
+
+[📄 View Submission](https://github.com/rohanstomar11/ZavionTasks/blob/master/ROHANSINGHTOMAR_XENOVERSE.pdf)  
+
+---
+
+## 📞 Contact  
+**Rohan Singh Tomar**  
+✉️ rohanstomar11@gmail.com  
+📞 7559454220  
